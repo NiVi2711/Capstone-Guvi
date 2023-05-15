@@ -1,0 +1,2 @@
+localhost - http://65.1.86.213/
+Docker hub - https://hub.docker.com/repositories/nive2791
